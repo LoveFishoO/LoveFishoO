@@ -15,7 +15,6 @@
 - 🥈 2024 KDD Cup - WhoIsWho **Rank2** [Link](https://github.com/LoveFishoO/2024-KDD-WhoIsWho)
 - 🥈 Kaggle Competition - Novozymes Enzyme Stability Prediction **Rank18** [Link](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction)
 - 🥉 Kaggle Competition - Global AI Hackathon'25 by Elucidata **Rank2** [Link](https://www.kaggle.com/competitions/el-hackathon-2025)
-- 🥉 Kaggle Competition - Optiver - Trading at the Close [Link](https://www.kaggle.com/competitions/optiver-trading-at-the-close)
 
 
 ## 🌟 Featured Project
