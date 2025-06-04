@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 
-- 🧑‍💻 **Algorithm Engineer** passionate about solving real-world problems with code.
+- 🧑‍💻 **Algorithm Engineer** passionate about solving real-world problems with Code&AI.
 - 🐍 Python enthusiast, deep into machine learning & deep learning.
 - 🌈 Always exploring, always learning.
 
@@ -20,7 +20,7 @@
 
 ## 🌟 Featured Project
 
-### [KDD](#https://github.com/LoveFishoO/2024-KDD-WhoIsWho)
+### [KDD](https://github.com/LoveFishoO/2024-KDD-WhoIsWho)
 > The solution of 2024 KDD Cup WhoIsWho
 ### [Graph Isomorphism Network](https://github.com/LoveFishoO/Graph-Isomorphism-Network)
 > Graph Isomorphism Network based on Tensorflow GNN framework
