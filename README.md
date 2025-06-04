@@ -26,4 +26,3 @@
 > Graph Isomorphism Network based on Tensorflow GNN framework
 ### [AlphafoldInstallation](https://github.com/LoveFishoO/AlphafoldInstallation)
 > One-click use of AlphaFold
----
